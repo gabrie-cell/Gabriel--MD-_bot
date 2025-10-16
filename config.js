@@ -22,7 +22,7 @@ global.botnumber = "";
 global.confirmCode = "";
 global.owner = [
   ['17146121800', '>\`\` I\'m Sylph ~', true],
-  ['5212431268546', '>\` I\'m Fz ~', true],
+  ['51941247696', '>\` I\'m Fz ~', true],
   ['50242783087', '>\`\`\` I\'m Danny ~ 卐', true],
   ['51 941 247 696', 'Gabriel', true]
 ] //Numeros de owner 
